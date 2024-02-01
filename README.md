@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/hailsfrommars" target="blank"><img src="https://img.shields.io/twitter/follow/hailsfrommars?logo=twitter&style=for-the-badge" alt="hailsfrommars" /></a> </p>
 
-- 🏫 I’m currently learning **Computer Science Engineering**
+- 🏫 Currently doing my Bachelors in **Computer Science Engineering.**
 
-- 🎓 I aim to specialize in **Machine Learning**
+- 🎓 I aim to specialize in **Machine Learning.**
 
 - 📫 Contact me at: **shivansht2005@gmail.com**
 
