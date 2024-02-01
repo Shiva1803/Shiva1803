@@ -9,7 +9,7 @@
 
 - 🎓 I aim to specialize in **Machine Learning**
 
-- 📫 How to reach me **shivansht2005@gmail.com**
+- 📫 Contact me at: **shivansht2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
