@@ -7,7 +7,7 @@
 
 - 🏫 Currently doing my Bachelors in **Computer Science Engineering.**
 
-- 🎓 I aim to specialize in **Machine Learning.**
+- 🎓 Aiming to specialize in **Machine Learning.**
 
 - 📫 Contact me at: **shivansht2005@gmail.com**
 
