@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -56,7 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiva1803&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
