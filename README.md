@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Shivansh 👋</h1>
-<h3 align="center">Aspiring Computer Science Engineer | Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Computer Science Engineer | Backend Dev </h3>
 
 ### Connect with Me
 <p align="left">
