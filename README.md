@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./assets/banner.gif" width="100%" />
+  <img src="https://github.com/user-attachments/assets/d94b5979-eade-4467-872b-4f8c7f3b6aaf" width="80%" />
 </div>
 
-## Shivansh Tripathi
+## About me: Shivansh Tripathi
 
 I am a third-year CS undergrad at Manipal University Jaipur, building at the intersection of AI and full-stack development. I spend most of my time turning ideas into products, from AI-powered tools to systems that actually solve something. I care about clean interfaces, thoughtful architecture, and shipping things that work.
 
