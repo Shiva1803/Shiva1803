@@ -1,63 +1,46 @@
-<h1 align="center">Hello, I'm Shivansh 👋</h1>
-<h3 align="center">Aspiring Computer Science Engineer | Backend Dev </h3>
+<div align="center">
+  <img src="./assets/banner.gif" width="100%" />
+</div>
 
-### Connect with Me
-<p align="left">
-  <a href="https://twitter.com/hailsfrommars" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/shivansht1803" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/that.cosmic.boy" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.codechef.com/users/shiva1803" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/shivansht1803" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/shiva1803" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
-</p>
+## Shivansh Tripathi
 
----
+I am a third-year CS undergrad at Manipal University Jaipur, building at the intersection of AI and full-stack development. I spend most of my time turning ideas into products, from AI-powered tools to systems that actually solve something. I care about clean interfaces, thoughtful architecture, and shipping things that work.
 
-### Languages & Tools
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-</p>
+## Visitor Count
 
+<div align="center">
+<img src="https://count.getloli.com/@Shiva1803.github?name=Shiva1803.github&theme=normal-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+</div>
 
----
+## My FLagship Projects
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiva1803&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top" style="padding: 8px;">
+      <h3><a href="https://github.com/Shiva1803/SmartLink">SmartLink</a></h3>
+      <p>An AI-powered link manager built to simplify how you organize and access URLs.</p>
+      <p><code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Supabase</code></p>
+    </td>
+    <td width="50%" valign="top" style="padding: 8px;">
+      <h3><a href="https://github.com/Shiva1803/FinsightAI">FinsightAI</a></h3>
+      <p>Helps SMEs detect discrepancies between invoices and purchase orders using AI.</p>
+      <p><code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Supabase</code></p>
+    </td>
+  </tr>
+</table>
 
+## Writing
+
+I write occasionally about the stuff i'm dwelling into my pastime. [Check them out here](https://shivanshtripathi.vercel.app/blogs)
+
+## Currently Building
+
+Working on Con.AI, a persistent memory and context layer that lets AI actually remember who you are across platforms. The focus is on transparent, inspectable memory that you control, not a black box.
+
+## Tools I Reach For
+
+For products, I default to React and TypeScript on the frontend with Fast/Flask/Express the backend. For AI work, Python with whatever model fits the problem recently a lot of work around memory systems and context management. For quick prototyping, I move fast and clean up later.
+
+## Contact Me
+
+If something here caught your eye, a project, an idea, or just curiosity, feel free to explore the repos or reach out. Always open to interesting conversations. My website is: [shivanshtripathi.vercel.app](https://shivanshtripathi.vercel.app/blogs)
