@@ -4,7 +4,7 @@
 
 ## About me: Shivansh Tripathi
 
-I am a third-year CS undergrad at Manipal University Jaipur, building at the intersection of AI and full-stack development. I spend most of my time turning ideas into products, from AI-powered tools to systems that actually solve something. I care about clean interfaces, thoughtful architecture, and shipping things that work.
+I am a final year CS undergrad at Manipal University Jaipur, building at the intersection of AI and full-stack development. I spend most of my time turning ideas into products, from AI-powered tools to systems that actually solve something. I care about clean interfaces, thoughtful architecture, and shipping things that work.
 
 ## Visitor Count
 
