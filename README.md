@@ -37,10 +37,6 @@ I write occasionally about the stuff i'm dwelling into my pastime. [Check them o
 
 Working on Con.AI, a persistent memory and context layer that lets AI actually remember who you are across platforms. The focus is on transparent, inspectable memory that you control, not a black box.
 
-## Tools I Reach For
-
-For products, I default to React and TypeScript on the frontend with Fast/Flask/Express the backend. For AI work, Python with whatever model fits the problem recently a lot of work around memory systems and context management. For quick prototyping, I move fast and clean up later.
-
 ## Contact Me
 
 If something here caught your eye, a project, an idea, or just curiosity, feel free to explore the repos or reach out. Always open to interesting conversations. My website is: [shivanshtripathi.vercel.app](https://shivanshtripathi.vercel.app/blogs)
